@@ -1,0 +1,14 @@
+[
+  {
+    "id": "demo-1",
+    "text": "Daily morning activity",
+    "location_shared": true,
+    "child_present": false
+  },
+  {
+    "id": "demo-2",
+    "text": "Travel plans shared publicly",
+    "location_shared": true,
+    "child_present": false
+  }
+]

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+privacy_assessment.db
+*.sqlite
+.pytest_cache/
+reports/generated/
+data/social_media_privacy_assessments.csv
